@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ta21q83h86x1uhuj?svg=true)](https://ci.appveyor.com/project/JMatweewa/1-2-apici)
